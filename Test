@@ -1,0 +1,3 @@
+<?php 
+  echo "Người nào cũng như người nấy";
+?>
